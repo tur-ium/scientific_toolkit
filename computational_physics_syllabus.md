@@ -9,4 +9,4 @@
 7. Computers & Function Minimization
 8. Computers & Finite Difference Methods
 9. Computers & Solving Ordinary Differential Equations (ODEs)
-10.Computers & Solving Partial Differential Equations (PDEs)
+10. Computers & Solving Partial Differential Equations (PDEs)
